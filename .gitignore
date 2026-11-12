@@ -1,0 +1,10 @@
+*.FIR
+*.fir
+*.bin
+*.rom
+*.dump
+*.key
+*.pem
+.env
+.DS_Store
+__pycache__/
